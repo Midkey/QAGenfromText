@@ -53,4 +53,4 @@ python generate_QAPairs.py --document_file ./HarryPotterDoc/Harry Potter self_v0
 
 ## 类似代码
 
-[question_generation](https://github.com/deeppavlov/question_generation) 
+[question_generation](https://github.com/AMontgomerie/question_generator) 
